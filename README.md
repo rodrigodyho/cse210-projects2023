@@ -1,7 +1,7 @@
 # cse210-student-template
-Name Course: CSE 210
-Student Name: Rodrigo Lima
-Semester: Spring
+`Course:` CSE 210
+`Student:` Rodrigo Lima
+`Semester:` Spring
 
 
 This repository contains the starter code for many different projects. They are arranged as follows:
